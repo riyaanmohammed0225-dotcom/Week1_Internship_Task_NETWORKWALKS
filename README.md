@@ -259,13 +259,13 @@ Shows the Kali Linux virtual machine and its configuration in Oracle VirtualBox.
 
 ### 2. VirtualBox NAT Network Configuration
 
-![NAT Network Configuration](NAT-Network-Configuration.png)
+![NAT Network Configuration](NAT_Network_Configuration.png)
 
 Shows the `NatNetwork` configuration, including the IPv4 prefix `10.0.0.0/24`, enabled DHCP, and disabled IPv6.
 
 ### 3. Kali Linux IPv4 Configuration
 
-![Kali Linux IPv4 Configuration](Wired-Connection.png)
+![Kali Linux IPv4 Configuration](Wired_Connection.png)
 
 Shows the manually configured IPv4 address, subnet mask, gateway, and DNS server.
 
