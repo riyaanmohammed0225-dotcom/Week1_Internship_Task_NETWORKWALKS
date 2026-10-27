@@ -253,25 +253,25 @@ The following screenshots document the lab setup process.
 
 ### 1. VirtualBox and Kali Linux Setup
 
-![VirtualBox and Kali Linux Setup](screenshots/virtualbox-setup.gif)
+![VirtualBox and Kali Linux Setup](VirtualBoxDay1.gif)
 
 Shows the Kali Linux virtual machine and its configuration in Oracle VirtualBox.
 
 ### 2. VirtualBox NAT Network Configuration
 
-![NAT Network Configuration](screenshots/nat-network.png)
+![NAT Network Configuration](NAT-Network-Configuration.png)
 
 Shows the `NatNetwork` configuration, including the IPv4 prefix `10.0.0.0/24`, enabled DHCP, and disabled IPv6.
 
 ### 3. Kali Linux IPv4 Configuration
 
-![Kali Linux IPv4 Configuration](screenshots/ipv4-configuration.png)
+![Kali Linux IPv4 Configuration](Wired-Connection.png)
 
 Shows the manually configured IPv4 address, subnet mask, gateway, and DNS server.
 
 ### 4. NetworkManager Connection Activation
 
-![NetworkManager Connection Activation](screenshots/network-commands.png)
+![NetworkManager Connection Activation](Day1Week1.png)
 
 Shows the commands used to update the connection and the successful deactivation and reactivation messages from NetworkManager.
 
